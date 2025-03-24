@@ -1,0 +1,32 @@
+h1
+{
+    
+    border-style: double dotted dashed solid;
+    border-color: blueviolet aqua yellow red;
+    width:fit-content;
+    border-radius:5px;
+    padding: 15px 5px;
+    margin-left:50%;
+    position:absolute;
+}
+h3
+{
+    border-style: double dotted dashed solid;
+    border-color: blueviolet aqua yellow red;
+    width:fit-content;
+    border-radius:5px;
+    padding: 15px 5px;
+    margin:20% 50%;
+    position:absolute;
+}
+
+h4
+{
+    border-style: double dotted dashed solid;
+    border-color: blueviolet aqua yellow red;
+    width:fit-content;
+    border-radius:5px;
+    padding: 15px 5px;
+    margin: 50%;
+    position:absolute;
+}

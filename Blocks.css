@@ -1,0 +1,24 @@
+p{
+    border-style: double dotted dashed solid;
+    border-color: blueviolet aqua yellow red;
+    width:fit-content;
+    border-radius:5px;
+    padding: 5px 5px;
+     display: inline; 
+    margin: 5px;
+    height: 20px;
+    background-color: aqua;
+
+}
+
+a{
+    border-style: double dotted dashed solid;
+    border-color: blueviolet aqua yellow red;
+    width:fit-content;
+    border-radius:5px;
+    padding: 15px 5px;
+    display: inline-block;
+    margin: 2px;
+    height: 50px;
+    background-color: rgb(92, 194, 219);
+}

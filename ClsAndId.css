@@ -1,0 +1,31 @@
+#test:hover
+{
+    color: blue;word-spacing: 5px;letter-spacing: 5px;
+}
+
+.same
+{
+    color:red;position: fixed;
+}
+
+#sak::first-letter
+{
+    color: brown;
+}
+
+#same::first-line
+{
+    color:red;
+}
+
+#sak::before
+{
+    content:"Hey";
+}
+
+#sak::after
+{
+    content:"bye";
+}
+
+
