@@ -1,0 +1,19 @@
+p
+{
+ column-count: 3;
+ text-align: justify;
+ column-rule: 2px solid;
+ column-rule-color:black;
+}
+
+#para::first-letter
+{
+    font-size: 40px;
+    color: orangered;
+    font-weight:bold;
+    /* font-style: italic; */
+}
+
+h1{
+    text-decoration: underline;
+}

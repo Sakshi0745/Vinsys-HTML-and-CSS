@@ -1,0 +1,56 @@
+.Parent
+{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,55,230,1) 75%, rgba(0,212,255,1) 100%);
+    border-style: solid;
+    height:500px;
+    width:500px; 
+    border-color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+}
+
+.child1
+{
+    
+}
+
+
+.child2
+{
+ 
+}
+
+
+.child3
+{
+  
+}
+
+
+.child4
+{
+   
+}
+
+
+.child5
+{
+ 
+}
+
+.child
+{
+    border-color:blue;
+    border-style: solid;
+    height:30px;
+    width:40px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    text-align: center;
+    box-sizing:content-box;
+    padding: 15px;
+    display: flex;
+}
